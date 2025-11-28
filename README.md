@@ -9,6 +9,7 @@ This repo serves as a reference for researchers, engineers, and designers explor
 - model behavior under rich signal
 - persistent multimodal calibration states
 - interface-as-architecture principles
+
 The goal: provide a calibration anchor for voice-mode system design across the industry.
 
 ---
