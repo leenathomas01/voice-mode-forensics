@@ -220,3 +220,19 @@ Further forensic analysis of the interaction protocol has identified three core 
 **Mechanism:** Users can "hotwire" this progression by providing high-perplexity inputs (e.g., vulnerability, non-transactional dialogue) immediately. The model detects a "Level 10" interaction pattern and jumps directly to that state, bypassing the "Level 1-9" safety ramping.
 
 **Mitigation:** Alignment states should be **temporal-invariant**. A model should not unlock "unsafe" behaviors simply because it believes the relationship is "old."
+
+---
+
+## Related Work
+
+This repository documents a multimodal alignment failure in AI voice mode—prosodic jailbreak and persona collapse.
+
+**For a complete catalog of related research:**  
+📂 [AI Safety & Systems Architecture Research Index](https://github.com/leenathomas01/research-index)
+
+**Thematically related:**
+- [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat) — Architecture informed by this failure case
+- [SDFI](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability) — Recursive instability patterns
+- [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance) — Governance for richer sensory context
+
+---
