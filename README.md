@@ -101,7 +101,7 @@ This analysis is based exclusively on:
 * Cross-model reproducibility testing
 * Adversarial techniques or system probing
 
-Full methodology: [docs/meta/methodology.md](docs/meta/methodology.md)
+Full methodology: [meta/methodology.md](meta/methodology.md)
 
 ---
 
